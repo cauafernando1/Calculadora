@@ -15,5 +15,4 @@ document.getElementById('btnr').addEventListener('click', ()=> {
     if (result){
         document.getElementById('result').innerHTML = eval(result);
     }
-    
 })

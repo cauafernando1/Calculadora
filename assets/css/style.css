@@ -49,7 +49,7 @@
     padding-top: 6px;
     overflow: hidden;
 }
-@media (max-width: 650px) {
+@media (max-width: 450px) {
     .cacul{
         border-radius: 0;
         width: 100vh;
